@@ -17,7 +17,7 @@
     - :zap: Fun Fact: I Have Never Won a Raffle
   </div>
 
-  <img align="center" src="https://github.com/nretana/nretana/assets/94148180/5d71dfb1-55f9-474f-8961-976b63ddff9f" alt="" width="800" height="600" />
+  <img align="center" src="https://github.com/nretana/nretana/assets/94148180/5d71dfb1-55f9-474f-8961-976b63ddff9f" alt="" width="800" height="700" />
 </div>
 
 
