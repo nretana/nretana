@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://github.com/nretana/nretana/assets/94148180/31525c7d-7239-4c0c-aea9-ad3c8e336b50" alt="" width="600" height="700" />
+<img align="right" src="https://github.com/nretana/nretana/assets/94148180/31525c7d-7239-4c0c-aea9-ad3c8e336b50" alt="" width="600" height="650" />
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
