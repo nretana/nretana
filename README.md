@@ -1,15 +1,24 @@
 
+<div align="center">
+  <h2 align="left">👨🏻‍💻 Welcome to my Lab </h2>
+  <div align="left">
+    - :computer: I'm a Fullstack Developer
+  </div>
+  <div align="left">
+    - :bulb: Exploring Technologies to Improve My Skill Set
+  </div>
+  <div align="left">
+    - :rocket: Always Ready for Exploration
+  </div>
+  <div align="left">
+    - :dart: Life Hack: ArgumentNullException
+  </div>
+  <div align="left">
+    - :zap: Fun Fact: I Have Never Won a Raffle
+  </div>
 
-<img align="right" src="https://github.com/nretana/nretana/assets/94148180/31525c7d-7239-4c0c-aea9-ad3c8e336b50" alt="" width="600" height="650" />
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :computer: I'm a Fullstack Developer
-- :bulb: Exploring Technologies to Improve My Skill Set
-- :rocket: Always Ready for Exploration
-- :dart: Life Hack: ArgumentNullException
-- :zap: Fun Fact: I Have Never Won a Raffle
-
+  <img align="center" src="https://github.com/nretana/nretana/assets/94148180/31525c7d-7239-4c0c-aea9-ad3c8e336b50" alt="" width="600" height="600" />
+</div>
 
 <!--
 **nretana/nretana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
