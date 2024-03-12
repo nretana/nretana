@@ -1,17 +1,14 @@
-### Hi there 👋
 
-Welcome to my little lab
+
+<img align="right" src="https://github.com/nretana/nretana/assets/94148180/31525c7d-7239-4c0c-aea9-ad3c8e336b50" alt="" width="600" height="700" />
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Fullstack Developer
-- :hourglass_flowing_sand: Exploring Technologies to Improve my Skillset
+- :bulb: Exploring Technologies to Improve My Skill Set
 - :rocket: Always Ready for Exploration
 - :dart: Life Hack: ArgumentNullException
 - :zap: Fun Fact: I Have Never Won a Raffle
-
-![github_banner](https://github.com/nretana/nretana/assets/94148180/0fc4a62f-e2a0-41bc-aa10-1e47ea29978a)
-
 
 
 <!--
