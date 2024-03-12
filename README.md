@@ -17,9 +17,8 @@
     - :zap: Fun Fact: I Have Never Won a Raffle
   </div>
 
-  <img align="center" src="https://github.com/nretana/nretana/assets/94148180/7106c371-b811-4c26-b665-e541e4d9081c" alt="" width="100%" height="100%" />
+  <img align="center" src="https://github.com/nretana/nretana/assets/94148180/c70255cc-7d86-44d7-b3c8-0d4e8c577c89" alt="" width="100%" height="100%" />
 </div>
-
 
 <!--
 **nretana/nretana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
