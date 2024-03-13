@@ -18,6 +18,8 @@
   </div>
 </div>
 
+<img align="center" src="https://github.com/nretana/nretana/assets/94148180/5c191439-0100-40ed-a989-d35e9b265468" alt="" width="100%" height="100%" />
+
 <!--
 **nretana/nretana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
