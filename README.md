@@ -18,7 +18,7 @@
   </div>
 </div>
 
-<img align="center" src="https://github.com/nretana/nretana/assets/94148180/0fa635ce-c46e-4172-94a9-b761b211dc4b" alt="" width="100%" height="450px" />
+<img align="center" src="https://github.com/nretana/nretana/assets/94148180/0fa635ce-c46e-4172-94a9-b761b211dc4b" alt="" width="100%" height="375px" />
 
 
 <!--
