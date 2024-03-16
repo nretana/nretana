@@ -1,6 +1,6 @@
 
 
-<img align="center" src="https://github.com/nretana/nretana/assets/94148180/88549f31-f431-494f-a891-2c4dec0eb5f0" alt="" width="100%" height="375px" />
+<img align="center" src="https://github.com/nretana/nretana/assets/94148180/c51eeda4-ac43-4426-a80d-34e85f13c430" alt="" width="100%" height="100%" />
 
 <!--
 **nretana/nretana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
