@@ -1,5 +1,4 @@
-
-<img align="center" src="https://github.com/nretana/nretana/assets/94148180/90951e36-afb0-4f8c-953b-580edcf8e1ee" alt="" width="100%" height="100%" />
+<img align="center" src="https://github.com/user-attachments/assets/60b80073-0d81-416d-97ec-ef4dd903157d" alt="" width="100%" height="100%" />
 
 <!--
 
